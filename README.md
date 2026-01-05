@@ -1,8 +1,8 @@
 # Assignment 5: Build and Train a GPT Model
 
-> **📥 Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/8Wsa-bUG)
+> **Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/8Wsa-bUG)
 >
-> **📅 Due:** February 13, 2026 at 11:59 PM EST
+> **Due:** February 13, 2026 at 11:59 PM EST
 >
 > Click the link above to create your private repository for this assignment. Complete your work in Google Colab, then push your notebook to the repository before the deadline.
 
